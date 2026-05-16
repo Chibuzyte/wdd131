@@ -80,7 +80,7 @@ nav ul{
 }
 
 main{
-    font-size: 400;
+    font-size: 400px;
 }
 
 nav a {
@@ -95,7 +95,7 @@ nav a:hover{
     text-decoration: overline;
 }
 
-@media(min-widt: 640px) {
+@media(min-width: 640px) {
     nav ul{
         display: flex;
     }
